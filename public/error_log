@@ -1,0 +1,6 @@
+[29-Jul-2016 19:14:15 UTC] PHP Fatal error:  Class 'Ericmuigai\Pesapal\Oauth\OAuthSignatureMethod_HMAC_SHA1' not found in /home/letscook/public_html/posta.bitcircuit.co/vendor/ericmuigai/pesapal/src/Ericmuigai/Pesapal/Pesapal.php on line 94
+[29-Jul-2016 19:53:03 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Payments' not found in /home/letscook/public_html/posta.bitcircuit.co/app/Http/Controllers/PaymentsController.php on line 19
+[29-Jul-2016 19:54:01 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Payments' not found in /home/letscook/public_html/posta.bitcircuit.co/app/Http/Controllers/PaymentsController.php on line 19
+[30-Jul-2016 00:47:59 Africa/Nairobi] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/letscook/public_html/posta.bitcircuit.co/app/Http/Controllers/PaymentsController.php on line 31
+[31-Jul-2016 13:32:34 Africa/Nairobi] PHP Fatal error:  Call to a member function getRouteKey() on null in /home/letscook/public_html/posta.bitcircuit.co/storage/framework/views/25a52c0585d6fa346d0aa0177ba6b1b8a8bab5f6.php on line 9
+[31-Jul-2016 16:51:21 Africa/Nairobi] PHP Fatal error:  Class 'App\Http\Controllers\Notification' not found in /home/letscook/public_html/posta.bitcircuit.co/app/Http/Controllers/PaymentsController.php on line 43

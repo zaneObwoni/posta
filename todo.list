@@ -1,0 +1,217 @@
+To be done
+
+1. Form after delivery.
+2. Form after Picking.
+3. Change EMS data to read well.
+4. Change Driver information in relation to what he is riding.
+5. Jack's changes.
+
+28 Sept 2016
+1. Change for Normal Estamp to have only the receiver details.
+2. Underpayments : After putting the code it should bring you the unpaid balance and the outstanding balance.
+3. Admin section to see estamp history.
+
+4. EMS delivery.
+Estate / House Number
+Additional description on the delivery location.
+Please give detailed description on how to reach the place
+
+5. Description .
+Approx. dimensions of the item to give the other person an idea of what to send.
+Be it a motorcycle or a lorry.
+
+6. Registration: Add where one lives.
+
+
+
+Best wishes
+name of school, po box, address, code no and town
+
+
+Notes.
+----------------
+
+Should not be able to reply.
+Remove africastalking words after account creation.
+
+Zero rated so that everyone receives sms.
+
+Top Up - Show users where to top-up link. www.enjiwa.com/topup/estamp/
+Enter tracking code for TOP-UP should be on the SMS.
+
+Verification of numbers so that people dont use fake numbers.
+Specify whether user is a physical user or a virtual user.
+
+Disruptive.
+Element of this system is? Cut out queues.
+
+Images of current stamps to be images.
+
+Email administration.
+
+Picking message after you pay for your picking.
+
+Your payment is in the process please wait. - to ensure someone does not pay twice.
+
+Categorization of letters before being returned.
+
+Premium numbers for boxes.
+
+http://www.enjiwa.com/admin/pickings/77/edit error
+
+
+Documentation on the Code.  - 4-Oct-2016
+------------------------------------------------------
+
+Creation of a log file - To track errors.
+
+Add Postcode locations on the post boxes.
+
+County -> Town -> Post Code -> Boxes.  -- *
+
+Remove dashboard Template. --- *
+
+
+Riders
+Letters posted.
+Boxes sold.
+Relevant staff.
+
+Add staff like FNE.
+
+Notification to staff after account creation.
+
+Auto generate passwords and send to emails or make users set their passwords.
+
+Edit staff functionality.
+
+Admin to {username} -- *
+
+Separate notification from emails - For admin and users as well.
+
+change admin@posta.co.ke to noreply@posta.co.ke  -- *
+
+Presentation of staff table like we have done the users.
+
+All info about the user. Stamps bought etc.
+
+Add coming soon to the unworking links.  -- *
+
+User: Feedback to take you to email creation page.  -- *
+
+Admin: Feedback sees all the feedbacks by the user.
+
+Add notifications on the admin section.
+
+Under users add corporates then Emails. -- *
+
+Add lisence to the driver info and expiry of the License.
+
+---------------------------------------------------
+Vehicles put details of insurance.
+Driver put license class, number, and validity.
+---------------------------------------------------
+Make vehicle type a dropdown. -- *
+
+A way to manage the drivers. CRUD.
+
+Add a driver when you go to drivers table.
+
+Payment for deliveries has an error.
+
+Fullname on the driver info sent by email.  -- *
+
+Notifications for EMS should be at the Door not the box number. - Rectify the message from the notifications.  -- *
+
+Print receipt.  --  *
+
+Admin should be able to see delivered stamps.
+
+Change status of rider assigned to delivered.
+
+Update the database to release the driver and change the status of the package to delivered.
+
+Messege: "Get from Jack."
+
+Sort users by date. Latest on top.
+
+Add a notification after picking of a registered mail: Messege: "Dear {sender}, Your registered mail to Receiver has been collected by {Receiver/Agent}."
+
+A place to add a postcode and postbox. - Should be manageble.
+
+A place to view all the postacal codes. - Take or not.
+
+NO boxes available before 18 years. 1998 and before.
+
+Validate uploads and attachments.
+
+Validate phone number that a user does not put 0000000 as phone number.
+
+Admin should have the option to edit the user details.
+
+Unlock numbers after 2 weeks.
+
+Remove dropdown from edit user. -- *
+
+Best error for no best wishes estamp. -- *
+
+Forgot password link on users
+
+Put box and populate the other fields when sending estamp.
+
+*** Access payment of all payment.
+*** Payment works sometimes does not work.
+
+All Estamps show 55 rectify to actual estamp number. -- *
+
+Payment notification after underpayment of a estamp.
+
+Notification and Email of underpayment.
+
+Delivery message to the letter has been delivered to the {receivers} {postoffice}, {Nairobi}  -- *
+
+Database integration.
+
+
+Bitcircuit Grievances
+---------------------
+
+1. Not sure if system is a product or a prototype
+2. Conflict of information from Simpay.
+3. Keeping your word on Payment.
+4. Pressure.
+5. Lack of Cordination - Divide and rule.
+
+
+
+Work added and Not paid for:
+---------------------------
+
+1. Ems API
+2. Ems Scanners
+3. Ems Web
+4. Phone
+5. Parcels and their Scanners.
+6. Batch
+7. Bestwishes
+8. USSD password creation on the web.
+9. Underpayment
+10. Changes from before and from MTECH (Login without @posta, )
+11. Testing
+
+
+Overall changes -- 8 Oct 2016
+
+Arrange this http://www.enjiwa.com/user/estamps/create
+
+Sender First
+Then
+Receiver Second
+
+
+Done.
+----
+
+Bestwishes
+Sorting Users
+

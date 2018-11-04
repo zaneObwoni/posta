@@ -1,0 +1,1 @@
+[30-Jul-2016 18:27:42 Africa/Nairobi] PHP Fatal error:  Class 'SimpleSoftwareIO\QrCode\QrCodeServiceProvider' not found in /home/letscook/public_html/posta.bitcircuit.co/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
